@@ -6,10 +6,5 @@ public class User {
         return "User{}";
     }
 
-    //   我不是
-    public void hello() {
-        User user = new User();
-        user.hello();
-    }
 
 }
